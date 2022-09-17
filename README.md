@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prayitno-geo-pzy
+- 👋 Hi, I’m @prayitno
 - 👀 I’m interested in WebGIS
 - 🌱 I’m currently learning some languange of programming such as: html, css, javascript, and phyton in basic level
 - 💞️ I’m looking to collaborate on ....
