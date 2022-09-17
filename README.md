@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prayitno
-- 👀 I’m interested in WebGIS
+- 👀 I’m interested in Hidrology with GIS
 - 🌱 I’m currently learning some languange of programming such as: html, css, javascript, and phyton in basic level
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me ...
